@@ -48,7 +48,10 @@
 
 .project-image {
   width: 100%;
+  height: auto;
+  max-width: 500px; /* set a maximum width for the images */
 }
+
 
 .image-link {
   position: absolute;
