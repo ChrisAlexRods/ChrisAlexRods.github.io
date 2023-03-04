@@ -41,16 +41,17 @@
 }
 
 .project-image-wrapper {
-  position: relative;
   width: 75%;
   margin-right: 10px;
+  overflow: hidden; /* add this property to clip the image */
 }
 
 .project-image {
-  width: 100%;
+  display: block; /* add this property to remove any default margins/paddings */
+  max-width: 100%; /* set a maximum width for the images */
   height: auto;
-  max-width: 500px; /* set a maximum width for the images */
 }
+
 
 
 .image-link {
