@@ -60,7 +60,9 @@ h2.mb-5 {
   height: auto;
 }
 
-
+.body {
+  background-color: rgb(128,128,128);
+}
 
 .image-link {
   position: absolute;
@@ -155,9 +157,9 @@ body {
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
-  background-color: var(--bs-body-bg);
+  background-color: rgba(231, 175, 212, 0.1);
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: rgba(235, 129, 182, 0);
 }
 
 hr {
@@ -12449,7 +12451,7 @@ section.resume-section {
   padding-right: 1rem;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  max-width: 75rem;
+  max-width: 90rem;
 }
 
 section.resume-section .resume-section-content {
