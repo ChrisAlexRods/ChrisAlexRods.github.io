@@ -11,9 +11,15 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
- .container {
+.exp-img:hover {
+  transform: scale(1.25);
+  transition: all 0.5s ease-out;
+}
+
+.container {
   position: relative;
-  top: 50px; /* adjust the value as needed */
+  top: 50px;
+  /* adjust the value as needed */
 }
 
 h2.mb-5 {
@@ -61,7 +67,7 @@ h2.mb-5 {
 }
 
 .body {
-  background-color: rgb(128,128,128);
+  background-color: rgb(128, 128, 128);
 }
 
 .image-link {
