@@ -3,6 +3,8 @@ Christian Rodriguez's Portfolio Website - README
 Overview
 Welcome to Christian Rodriguez's portfolio website! This README provides an overview of the projects and experience that showcase my skills as a full-stack software engineer. With a strong background in HTML5, Python 3, JavaScript ES6+, SQL, CSS, and various frontend and backend technologies, I am eager to take on new challenges and contribute to your team.
 
+Deployed Link: https://chrisalexrods.github.io/#about
+
 ## Table of Contents
 Projects
 - Project Green Thumb
