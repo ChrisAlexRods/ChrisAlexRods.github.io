@@ -10,6 +10,9 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+ .resume-section#education {
+  margin-top: -120px;
+}
 
 .exp-img:hover {
   transform: scale(1.25);
